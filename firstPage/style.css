@@ -1,0 +1,36 @@
+h1{
+
+    right: 30%;
+}
+h2{
+
+   right: 20%;
+}
+.header-size{
+    font-size: 17px;}
+.header-align{
+    text-align: center;
+    color: mediumblue;}
+
+div{
+    width: 50%;
+    margin: 0px auto;
+}
+
+table,th,td{
+    border: 2px solid;
+    border-collapse:collapse;
+    width: 50%;
+    margin: 0px auto;
+    
+}
+.header-size1,th,td{
+    border: 1px solid;
+    border-collapse:collapse;
+    width: 50%;
+    margin: 0px auto;
+}
+.header-size2{
+    width: 50%;
+    margin: 0px auto;
+}
